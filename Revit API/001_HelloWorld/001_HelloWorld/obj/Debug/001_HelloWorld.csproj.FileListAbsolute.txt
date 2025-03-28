@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\bin\Debug\001_HelloWorld.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\obj\Debug\001_HelloWorld.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\001_HelloWorld\001_HelloWorld\obj\Debug\001_HelloWorld.pdb

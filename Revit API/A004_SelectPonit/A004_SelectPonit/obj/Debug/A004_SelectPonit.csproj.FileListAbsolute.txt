@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\bin\Debug\A004_SelectPonit.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\bin\Debug\A004_SelectPonit.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\obj\Debug\A004_SelectPonit.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\obj\Debug\A004_SelectPonit.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\obj\Debug\A004_SelectPonit.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A004_SelectPonit\A004_SelectPonit\obj\Debug\A004_SelectPonit.pdb

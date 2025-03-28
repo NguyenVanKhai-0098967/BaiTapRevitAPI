@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\bin\Debug\A006_SelectFace.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\bin\Debug\A006_SelectFace.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\obj\Debug\A006_SelectFace.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\obj\Debug\A006_SelectFace.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\obj\Debug\A006_SelectFace.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A006_SelectFace\A006_SelectFace\obj\Debug\A006_SelectFace.pdb

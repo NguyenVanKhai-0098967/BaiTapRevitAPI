@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\bin\Debug\A002_SelectElement.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\bin\Debug\A002_SelectElement.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\obj\Debug\A002_SelectElement.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\obj\Debug\A002_SelectElement.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\obj\Debug\A002_SelectElement.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\A002_SelectElement\A002_SelectElement\obj\Debug\A002_SelectElement.pdb
