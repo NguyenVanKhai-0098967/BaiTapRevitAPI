@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\bin\Debug\B001_ElementsByFilter.dll
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\bin\Debug\B001_ElementsByFilter.pdb
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\obj\Debug\B001_ElementsByFilter.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\obj\Debug\B001_ElementsByFilter.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\obj\Debug\B001_ElementsByFilter.dll
+C:\Users\khaik\Downloads\NEW\B001_ElementsByFilter\B001_ElementsByFilter\obj\Debug\B001_ElementsByFilter.pdb

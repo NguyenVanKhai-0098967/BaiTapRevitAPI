@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\bin\Debug\B002_ListDoiTuong.dll
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\bin\Debug\B002_ListDoiTuong.pdb
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\obj\Debug\B002_ListDoiTuong.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\obj\Debug\B002_ListDoiTuong.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\obj\Debug\B002_ListDoiTuong.dll
+C:\Users\khaik\Downloads\NEW\B002_ListDoiTuong\B002_ListDoiTuong\obj\Debug\B002_ListDoiTuong.pdb

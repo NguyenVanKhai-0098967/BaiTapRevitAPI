@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\bin\Debug\A005_TaoListElements.dll
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\bin\Debug\A005_TaoListElements.pdb
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\obj\Debug\A005_TaoListElements.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\obj\Debug\A005_TaoListElements.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\obj\Debug\A005_TaoListElements.dll
+C:\Users\khaik\Downloads\NEW\A005_TaoListElements\A005_TaoListElements\obj\Debug\A005_TaoListElements.pdb
