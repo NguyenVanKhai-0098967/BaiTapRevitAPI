@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C0011_Parameter_Beam_Column", "C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column.csproj", "{2916378A-44F1-49CB-84F2-ACC8308D4E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2916378A-44F1-49CB-84F2-ACC8308D4E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2916378A-44F1-49CB-84F2-ACC8308D4E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2916378A-44F1-49CB-84F2-ACC8308D4E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2916378A-44F1-49CB-84F2-ACC8308D4E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1C79F6-3333-47C0-9641-5171EE8BE8AB}
+	EndGlobalSection
+EndGlobal

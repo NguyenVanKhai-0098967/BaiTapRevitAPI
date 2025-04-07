@@ -1,0 +1,18 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\C0011_Parameter_Beam_Column.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\C0011_Parameter_Beam_Column.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\Aspose.Cells.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\Aspose.Cells.xml
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Pa.6345CEE3.Up2Date
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.pdb
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\C0011_Parameter_Beam_Column.dll
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\C0011_Parameter_Beam_Column.pdb
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\Aspose.Cells.dll
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\bin\Debug\Aspose.Cells.xml
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Pa.6345CEE3.Up2Date
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.dll
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0011_Parameter_Beam_Column\C0011_Parameter_Beam_Column\obj\Debug\C0011_Parameter_Beam_Column.pdb
