@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\bin\Debug\C001_GetParameters.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\bin\Debug\C001_GetParameters.pdb
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\obj\Debug\C001_GetParameters.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\obj\Debug\C001_GetParameters.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\obj\Debug\C001_GetParameters.dll
+C:\Users\khaik\Downloads\Môn học\Lập trình-BIM\Revit API\C001_GetParameters\C001_GetParameters\obj\Debug\C001_GetParameters.pdb
