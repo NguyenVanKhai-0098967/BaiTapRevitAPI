@@ -1,0 +1,6 @@
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\bin\Debug\C0012_Parameter_Wall.dll
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\bin\Debug\C0012_Parameter_Wall.pdb
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\obj\Debug\C0012_Parameter_Wall.csproj.AssemblyReference.cache
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\obj\Debug\C0012_Parameter_Wall.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\obj\Debug\C0012_Parameter_Wall.dll
+C:\Users\khaik\Downloads\MH\Lập trình-BIM\Revit API\C0012_Parameter_Wall\C0012_Parameter_Wall\obj\Debug\C0012_Parameter_Wall.pdb
